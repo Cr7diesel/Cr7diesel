@@ -17,5 +17,6 @@ MY WORKS:
     Tools: aiohttp, asyncpg, docker, docker-compose, pydantic, SQLAlchemy. Link: (https://github.com/Cr7diesel/homework_aiohttp)
 - VKBot.
     Tools: vk-api, psycopg2-binary, pytest, requests. Link: (https://github.com/Cr7diesel/VKBot)
- 
+
+MY SERTIFICATES (Python, django, sql, python in web, git, html & css) https://github.com/Cr7diesel/Sertificates
 
