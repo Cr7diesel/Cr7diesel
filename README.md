@@ -3,10 +3,12 @@
 MY STACK:
 
 Python, Django, django REST framework, SQL, PostgreSQL, GIT, GitHub, Docker, Docker-Compose, 
-Flask, IOhttp, Asyncio, Celery, Redis, Linux, Html, Bootstrap, CSS, Testing and Refactoring a code.
+Flask, Aiohttp, Asyncio, Aiogram, Celery, Redis, Linux, Html, Bootstrap, CSS, Testing and Refactoring a code.
 
 MY WORKS:
 
+- Async Telegram's bot.
+    Tools: Aiogram, aiohttp. Link: (https://github.com/Cr7diesel/crypto_bot) 
 - API for a service of orders. 
     Tools: Django, DRF, PostgreSQL, Docker, Docker-Compose, Celery, Redis, Pytest. Link: (https://github.com/Cr7diesel/python-final-diplom)
 - API for service.
