@@ -7,6 +7,8 @@ Flask, Aiohttp, Asyncio, Aiogram, Celery, Redis, Linux, Html, Bootstrap, CSS, Te
 
 MY WORKS:
 
+- REST API for DiaryApi application.
+     Tools: Django, django REST Framework, black, docker, docker-compose, drf-spectacular, postgresql, pytest, Factory Boy, Faker. Link: https://github.com/Cr7diesel/DiaryApi
 - RishatPayments.
     Tools: Django, djangorestframework, black, docker, docker-compose, stripe, drf-spectacular, psycopg2-binary. Link: https://github.com/Cr7diesel/RishatPayments
 - Magic_ball_V2.
